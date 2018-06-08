@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Beetrack</string>
+    <string name="news">News</string>
+    <string name="saved">Saved</string>
+    <string name="error_get_news">There has been an error fetching the news, try again in a few moments.</string>
+    <string name="empty_saved">Save your favourite news so you can watch them here!</string>
+    <string name="no_url">There is no address to open this news</string>
+</resources>
